@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UangkasKotlin</string>
+    <string name="action_settings">Settings</string>
+    <string name="intent_id">id</string>
+    <string name="intent_status">status</string>
+    <string name="intent_jumlah">jumlah</string>
+    <string name="intent_keterangan">keterangan</string>
+    <string name="intent_tanggal">tanggal</string>
+</resources>
